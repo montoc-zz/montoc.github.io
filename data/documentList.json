@@ -1,5 +1,6 @@
 [{
     "fileName": "first.md",
+    "title": "This is the first document",
     "keywords": [
         "first",
         "password",
@@ -7,6 +8,7 @@
     ]
 },{
     "fileName": "second.md",
+    "title": "This is the second document",
     "keywords": [
         "second",
         "email",
